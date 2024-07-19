@@ -1,12 +1,13 @@
+body {
+    overflow: hidden;
+}
+
 .container {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-body {
-    overflow: hidden;
-}
 body video {
     aspect-ratio: 1/1;
     width: 100%;
